@@ -10,4 +10,4 @@ Dashboard link:
  
  
 Data Report:
-- [Powerpoint Slide](https://github.com/salmanzf/Obesity-Risk-of-Death-in-The-World_Dashboard/blob/streamlit/Obesity_Report.pdf)(pdf)
+- [Powerpoint Slide (pdf)](https://github.com/salmanzf/Obesity-Risk-of-Death-in-The-World_Dashboard/blob/streamlit/Obesity_Report.pdf)
